@@ -3,5 +3,7 @@ public class Prog 1
 
     System.out.println("PATEROSTECHNOLOGICALCOLLEGE");
     System.out.println("DARRYL CANDILADA");
+    System.out.println("DARRYL CANDILADA");
+
   }
 }
